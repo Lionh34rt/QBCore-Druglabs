@@ -1,4 +1,4 @@
-# Description
+# Description Lionh34rt#4305
 Keybased lab scripts based on the original qb-moneywash and qb-laundrette.
 After updating my keylabs scripts I decided to upload my outdated scripts
 Uses the bob74_ipl interiors (I don't know what happened to the methlab interior while making the preview, that was a first one)
@@ -15,3 +15,4 @@ Add the resources to your FiveM server and start them.
 https://streamable.com/ve170x
 
 # Interested in other custom scripts for Qbus base? DM me
+Lionh34rt#4305
