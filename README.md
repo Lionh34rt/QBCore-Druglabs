@@ -14,5 +14,5 @@ Add the resources to your FiveM server and start them.
 # Preview
 https://streamable.com/ve170x
 
-# Interested in other custom scripts for Qbus base? DM me
-Lionh34rt#4305
+# Interested in other custom scripts for Qbus base?
+Discord Invite link: https://discord.gg/AWyTUEnGeN
