@@ -1,5 +1,5 @@
 # Description Lionh34rt#4305
-Keybased lab scripts based on the original qb-moneywash and qb-laundrette.
+Keybased lab scripts based on the original qb-moneywash and qb-methlab.
 After updating my keylabs scripts I decided to upload my outdated scripts
 Uses the bob74_ipl interiors (I don't know what happened to the methlab interior while making the preview, that was a first one)
 Timers and ingredients needed are customizable. Obviously for the preview I made everything very short.
