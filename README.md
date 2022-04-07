@@ -11,6 +11,15 @@ I don't plan to maintain this repository
 Create the necessary items (weed brick, coke brick, meth package, meth, and all the keys, ...) in your shared.lua
 Add the resources to your FiveM server and start them.
 
+# Shared.lua labkeys
+```
+--LabKeys
+["methkey"] 				= {["name"] = "methkey", 					["label"] = "methkey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "methkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Meth Lab Access key!"},
+["weedkey"] 				= {["name"] = "weedkey", 					["label"] = "weedkey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "weedkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Weed Lab Access key!"},
+["mwkey"] 				= {["name"] = "mwkey", 					["label"] = "mwkey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "mwkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Laundrette Access key!"},
+["cokekey"] 				= {["name"] = "cokekey", 					["label"] = "cokekey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "cokekey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Coke Lab Access key!"},
+```
+
 # Preview
 https://streamable.com/ve170x
 
