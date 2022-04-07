@@ -16,7 +16,7 @@ Add the resources to your FiveM server and start them.
 --LabKeys
 ["methkey"] 				= {["name"] = "methkey", 					["label"] = "methkey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "methkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Meth Lab Access key!"},
 ["weedkey"] 				= {["name"] = "weedkey", 					["label"] = "weedkey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "weedkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Weed Lab Access key!"},
-["mwkey"] 				= {["name"] = "mwkey", 					    ["label"] = "mwkey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "mwkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Laundrette Access key!"},
+["mwkey"] 				= {["name"] = "mwkey", 					        ["label"] = "mwkey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "mwkey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Laundrette Access key!"},
 ["cokekey"] 				= {["name"] = "cokekey", 					["label"] = "cokekey", 					["weight"] = 0, 		["type"] = "item", 		["image"] = "cokekey.png", 				["unique"] = true, 		["useable"] = true, 	["shouldClose"] = false,	   	["combinable"] = nil,   ["description"] = "Coke Lab Access key!"},
 ```
 
